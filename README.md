@@ -10,4 +10,7 @@ Auto collect money bag,
 Xray,
 Third Person View,
 AntiLag,
-Esp items,enemy
+Esp items,enemy,
+TP to end,
+NPC Lock,
+KeyBinds
