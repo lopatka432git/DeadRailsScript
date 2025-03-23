@@ -13,4 +13,5 @@ AntiLag,
 Esp items,enemy,
 TP to end,
 NPC Lock,
-KeyBinds
+KeyBinds,
+NoFog
