@@ -18,5 +18,3 @@ Esp items,enemy,
 NPC Lock,
 KeyBinds,
 NoFog
-
-Currently not working esp soon wil fixed
