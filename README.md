@@ -1,7 +1,6 @@
 simple script for Dead Rails with little functionality
 ![image](https://github.com/user-attachments/assets/3567fecd-e370-42bc-aeee-21d5a1bbd394)
 ![image](https://github.com/user-attachments/assets/6ddcaca6-93f5-4872-bbc4-7d39cd22c2cd)
-![Screenshot_131](https://github.com/user-attachments/assets/503da8ff-4953-4365-885a-e5850bb4519c)
 ![Screenshot_129](https://github.com/user-attachments/assets/6b335e38-aa18-4ab7-b538-c85606a224fd)
 ![Screenshot_133](https://github.com/user-attachments/assets/a6831695-27aa-4c5d-b339-6db237e9f0c2)
 ![Screenshot_134](https://github.com/user-attachments/assets/70b26476-6a9b-4617-a19d-e8277d807f94)
