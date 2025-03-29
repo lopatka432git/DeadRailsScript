@@ -14,7 +14,7 @@ Auto collect money bag,
 Xray,
 Third Person View,
 AntiLag,
-Esp items,enemy,
+Esp items,ore,enemy,
 NPC Lock,
 KeyBinds,
 NoFog
