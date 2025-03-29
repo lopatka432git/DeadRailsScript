@@ -1,9 +1,10 @@
 simple script for Dead Rails with little functionality
-![image](https://github.com/user-attachments/assets/546830bf-935f-4d61-912f-bf122afda48b)
-![image](https://github.com/user-attachments/assets/f27bd0c2-6037-4d93-8c9e-225002c22b10)
-![image](https://github.com/user-attachments/assets/46d957ec-aea5-4487-a4eb-2da8290e1aea)
 ![image](https://github.com/user-attachments/assets/3567fecd-e370-42bc-aeee-21d5a1bbd394)
 ![image](https://github.com/user-attachments/assets/6ddcaca6-93f5-4872-bbc4-7d39cd22c2cd)
+![Screenshot_131](https://github.com/user-attachments/assets/503da8ff-4953-4365-885a-e5850bb4519c)
+![Screenshot_130](https://github.com/user-attachments/assets/581654a6-40c6-446c-b5c3-7045d3498a72)
+![Screenshot_129](https://github.com/user-attachments/assets/6b335e38-aa18-4ab7-b538-c85606a224fd)
+![Screenshot_132](https://github.com/user-attachments/assets/1ebcb28f-0514-43ab-abcc-731d29f37cfb)
 Functions:
 Noclip,
 Fullbright,
