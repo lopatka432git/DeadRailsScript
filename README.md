@@ -5,6 +5,7 @@ simple script for Dead Rails with little functionality
 ![Screenshot_129](https://github.com/user-attachments/assets/6b335e38-aa18-4ab7-b538-c85606a224fd)
 ![Screenshot_133](https://github.com/user-attachments/assets/a6831695-27aa-4c5d-b339-6db237e9f0c2)
 ![Screenshot_134](https://github.com/user-attachments/assets/70b26476-6a9b-4617-a19d-e8277d807f94)
+![Screenshot_132](https://github.com/user-attachments/assets/577e909a-d9ea-48f9-a66b-02ffa1fc8659)
 Functions:
 Noclip,
 Fullbright,
