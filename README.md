@@ -19,5 +19,4 @@ Esp items,ore,enemy,
 NPC Lock,
 KeyBinds,
 NoFog,
-AntiAim,
 Drag no collision item
