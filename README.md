@@ -1,3 +1,9 @@
+Keybinds available only for pc!!!
+
+For run script inject it:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lopatka432git/DeadRailsScript/refs/heads/main/DeadRails.lua"))()
+
 simple script for Dead Rails with little functionality
 ![image](https://github.com/user-attachments/assets/3567fecd-e370-42bc-aeee-21d5a1bbd394)
 ![image](https://github.com/user-attachments/assets/6ddcaca6-93f5-4872-bbc4-7d39cd22c2cd)
